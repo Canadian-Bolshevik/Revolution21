@@ -1,0 +1,17 @@
+state={
+	id=810
+	name="STATE_810"
+	state_category=rural
+	history={
+		owner = CAN
+		add_core_of = CAN
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces={
+		1788 1848 3721 4218 10656 12593 12636 13267 13274
+	}
+	manpower=113548
+	buildings_max_level_factor=1.000
+}

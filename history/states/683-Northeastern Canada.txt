@@ -1,0 +1,30 @@
+state={
+	id=683
+	name="STATE_683" # Nunavut
+	
+	state_category = wasteland
+	
+	resources={
+		aluminium=7 # was: 8.000
+	}
+
+	history={
+		owner = INU
+		buildings = {
+			infrastructure = 1
+			7813 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { 7813 5 }
+		victory_points = { 10721 1 }
+		add_core_of = INU
+
+	}
+
+	provinces={
+		1712 2947 3691 7813 8962 10721 13188 13190 13191 13241
+	}
+	manpower=27498
+	buildings_max_level_factor=1.000
+}

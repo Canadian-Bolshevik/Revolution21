@@ -1,0 +1,19 @@
+state={
+	id=816
+	name="STATE_816"
+	history={
+		owner = QUE
+		victory_points = { 13278 1 }
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = QUE
+
+	}
+	provinces={
+		1284 4305 4422 12291 13278 
+	}
+	manpower=99426
+	buildings_max_level_factor=1.000
+	state_category=town
+}

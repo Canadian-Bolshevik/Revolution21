@@ -1,0 +1,18 @@
+state={
+	id=808
+	name="STATE_808" # Yukon
+	history = {
+		owner = CAS
+		buildings = {
+		infrastructure = 1
+		}
+		add_core_of = CAS
+		victory_points = { 7869 1 }
+	}
+	provinces={
+		3606 7869 7891 
+	}
+	manpower=30431
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

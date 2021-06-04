@@ -1,0 +1,19 @@
+state={
+	id=817
+	name="STATE_817"
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 10644 5 }
+		victory_points = { 7853 5 }
+		add_core_of = CAS
+	}
+	provinces={
+		1737 4343 7677 7753 7853 10644 
+	}
+	manpower=427084
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

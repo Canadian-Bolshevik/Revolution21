@@ -1,0 +1,32 @@
+
+state={
+	id=470
+	name="STATE_470"
+
+	history={
+		owner = WEC
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			13253 15 
+		}
+		victory_points = {
+			13252 3 
+		}
+		victory_points = {
+			7348 5 
+		}
+		add_core_of = WEC
+
+	}
+
+	provinces={
+		515 1804 3010 6754 7787 12166 13192 13250 13251 13252 13253 13254 13255 13256 13258 
+	}
+	manpower=1690800
+	buildings_max_level_factor=1.000
+	state_category=city
+}

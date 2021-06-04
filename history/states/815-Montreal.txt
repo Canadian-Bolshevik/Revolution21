@@ -1,0 +1,22 @@
+state={
+	id=815
+	name="STATE_815"
+
+	history={
+		owner = QUE
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 1
+		}
+		add_core_of = QUE
+		victory_points = { 4345 20 }
+
+	}
+	provinces={
+		4345 7345 13275 
+	}
+	manpower=1709375
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}
