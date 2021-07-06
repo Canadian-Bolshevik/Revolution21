@@ -1,0 +1,20 @@
+state={
+	id=843
+	name="STATE_843"
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+
+		}
+		add_core_of = USA
+
+	}
+	provinces={
+		695 6713 9654 11637 11641 
+	}
+	manpower=1785579
+	buildings_max_level_factor=1.000
+	state_category=town
+}

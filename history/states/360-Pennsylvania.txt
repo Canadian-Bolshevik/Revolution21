@@ -10,7 +10,7 @@ state={
 		owner = USA
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 4
+			industrial_complex = 2
 			air_base = 2
 		}
 		add_core_of = USA
@@ -24,5 +24,5 @@ state={
 	}
 	manpower=9631346
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=city
 }

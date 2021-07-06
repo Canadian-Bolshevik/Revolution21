@@ -841,3 +841,6 @@
  STATE_840:0 "Southern Lowlands"
  STATE_841:0 "Chicago"
  STATE_842:0 "St. Louis"
+ STATE_843:0 "Gary"
+ STATE_844:0 "Erie"
+ STATE_845:0 "East Iowa"
