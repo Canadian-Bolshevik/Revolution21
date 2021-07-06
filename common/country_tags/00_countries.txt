@@ -210,4 +210,4 @@ QUE = "countries/Quebec.txt"
 INU = "countries/Inuit Nunangat.txt"
 CAS = "countries/Cascadia.txt"
 WEC = "countries/Western Canada.txt"
-
+ASK = "countries/Alaska.txt"

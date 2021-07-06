@@ -1,0 +1,20 @@
+state={
+	id=826
+	name="STATE_826"
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = USA
+
+	}
+	provinces={
+		3834 5044 7920 10783 
+	}
+	manpower=712114
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
