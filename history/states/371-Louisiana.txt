@@ -7,13 +7,13 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = TEX
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
 
 		}
-		add_core_of = USA
+		add_core_of = TEX
 	}
 
 	provinces={

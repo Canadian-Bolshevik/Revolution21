@@ -1,5 +1,15 @@
 #reload countrycolors
 
+TEX = {
+	color = { 0 32 91 }
+	color_ui = { 0 32 91 }
+}
+
+CAL = {
+	color = { 242 217 0 }
+	color_ui = { 242 217 0 }
+}
+
 HAW = {
 	color = { 255 128 0 }
 	color_ui = { 255 128 0 }
