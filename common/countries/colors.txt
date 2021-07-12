@@ -1,5 +1,20 @@
 #reload countrycolors
 
+NAF = {
+	color = { 142 0 0 }
+	color_ui = { 142 0 0 }
+}
+
+DES = {
+	color = { 239 228 176 }
+	color_ui = { 239 228 176 }
+}
+
+CHE = {
+	color = { 164 55 0 }
+	color_ui = { 164 55 0 }
+}
+
 TEX = {
 	color = { 0 32 91 }
 	color_ui = { 0 32 91 }

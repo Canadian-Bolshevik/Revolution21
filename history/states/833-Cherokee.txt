@@ -2,14 +2,14 @@ state={
 	id=833
 	name="STATE_833"
 	history={
-		owner = USA
+		owner = CHE
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
 			air_base = 2
 
 		}
-		add_core_of = USA
+		add_core_of = CHE
 		victory_points = {
 			1806 1 
 		}
