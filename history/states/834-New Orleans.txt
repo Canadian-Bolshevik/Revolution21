@@ -2,7 +2,7 @@ state={
 	id=834
 	name="STATE_834"
 		history={
-		owner = USA
+		owner = PPF
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2
@@ -10,7 +10,7 @@ state={
 			7552 = { naval_base = 5 }
 
 		}
-		add_core_of = USA
+		add_core_of = PPF
 		victory_points = {
 			7552 10 
 		}

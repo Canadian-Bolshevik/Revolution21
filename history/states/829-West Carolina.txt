@@ -2,8 +2,8 @@ state={
 	id=829
 	name="STATE_829"
 		history={
-		owner = USA
-		add_core_of = USA
+		owner = APL
+		add_core_of = APL
 		buildings = {
 			infrastructure = 4
 			}

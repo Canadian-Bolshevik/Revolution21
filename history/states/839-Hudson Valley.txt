@@ -2,7 +2,7 @@ state={
 	id=839
 	name="STATE_839"
 	history={
-		owner = USA
+		owner = NYS
 		buildings = {
 			infrastructure = 8
 			arms_factory = 2
@@ -10,7 +10,7 @@ state={
 			air_base = 10
 
 		}
-		add_core_of = USA
+		add_core_of = NYS
 
 	}
 	provinces={

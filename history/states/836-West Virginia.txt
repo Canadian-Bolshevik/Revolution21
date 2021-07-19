@@ -2,13 +2,14 @@ state={
 	id=836
 	name="STATE_836"
 	history={
-		owner = USA
+		owner = APP
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 
 		}
-		add_core_of = USA
+		add_core_of = APP
+		victory_points = { 7588 2 }
 
 	}
 	provinces={

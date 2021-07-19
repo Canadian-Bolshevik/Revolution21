@@ -2,13 +2,13 @@ state={
 	id=843
 	name="STATE_843"
 	history={
-		owner = USA
+		owner = SUS
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2
 
 		}
-		add_core_of = USA
+		add_core_of = SUS
 
 	}
 	provinces={

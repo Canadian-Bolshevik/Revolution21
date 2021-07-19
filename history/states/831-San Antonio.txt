@@ -6,14 +6,14 @@ state={
 		aluminium=25.000
 	}
 		history={
-		owner = USA
+		owner = PPF
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			6785 = { naval_base = 1 }
 		}
 		victory_points = { 12782 1 }
-		add_core_of = USA
+		add_core_of = PPF
 
 	}
 	provinces={

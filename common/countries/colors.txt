@@ -1,5 +1,80 @@
 #reload countrycolors
 
+ARK = {
+	color = { 102 101 101 }
+	color_ui = { 102 101 101 }
+}
+
+PLR = {
+	color = { 34 197 66 }
+	color_ui = { 34 197 66 }
+}
+
+SUS = {
+	color = { 164 73 163 }
+	color_ui = { 164 73 163 }
+}
+
+APP = {
+	color = { 0 128 192 }
+	color_ui = { 0 128 192 }
+}
+
+ANT = {
+	color = { 176 115 113 }
+	color_ui = { 176 115 113 }
+}
+
+STL = {
+	color = { 155 159 64 }
+	color_ui = { 155 159 64 }
+}
+
+NYS = {
+	color = { 112  229  255 }
+	color_ui = { 112  229  255 }
+}
+
+UNE = {
+	color = { 140  180  220 }
+	color_ui = { 140  180  220 }
+}
+
+DAK = {
+	color = { 164 55 0 }
+	color_ui = { 164 55 0 }
+}
+
+ACS = {
+	color = { 229 229 112 }
+	color_ui = { 229 229 112 }
+}
+
+PPF = {
+	color = { 232  99  80 }
+	color_ui = { 232  99  80 }
+}
+
+APL = {
+	color = { 163 70 165 }
+	color_ui = { 163 70 165 }
+}
+
+WSA = {
+	color = { 34 187 66 }
+	color_ui = { 34 187 66 }
+}
+
+NEG = {
+	color = { 34 200 66 }
+	color_ui = { 34 200 66 }
+}
+
+UGC = {
+	color = { 165 75 20 }
+	color_ui = { 165 75 20 }
+}
+
 NAF = {
 	color = { 142 0 0 }
 	color_ui = { 142 0 0 }
@@ -11,8 +86,8 @@ DES = {
 }
 
 CHE = {
-	color = { 164 55 0 }
-	color_ui = { 164 55 0 }
+	color = { 252 201 14 }
+	color_ui = { 252 201 14 }
 }
 
 TEX = {

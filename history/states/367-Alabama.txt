@@ -4,13 +4,13 @@ state={
 	name="STATE_367"
 
 	history={
-		owner = USA
+		owner = APL
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 3
 
 		}
-		add_core_of = USA
+		add_core_of = APL
 		victory_points = {
 			12735 1 
 		}
