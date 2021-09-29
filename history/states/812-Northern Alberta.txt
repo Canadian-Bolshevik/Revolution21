@@ -13,9 +13,9 @@ state={
 		add_core_of = WEC
 	}
 	provinces={
-		1763 7348 7766 7858 12534 13257 13259 
+		1763 7348 7766 7858 12534 13192 13257 13259 
 	}
-	manpower=341982
+	manpower=291982
 	buildings_max_level_factor=1.000
 	state_category=rural
 }
