@@ -1,16 +1,16 @@
 ideologies = {
 	
-	communist = {
+	marxist_leninist = {
 		types = {
-			communist_subtype = {} #generic
+			marxist_leninist_subtype = {} #generic
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_COMMUNIST_1"
-			"FACTION_NAME_COMMUNIST_2"
-			"FACTION_NAME_COMMUNIST_3"
-			"FACTION_NAME_COMMUNIST_4"
-			"FACTION_NAME_COMMUNIST_5"
-			"FACTION_NAME_COMMUNIST_6"
+			"FACTION_NAME_MARXIST_LENINIST_1"
+			"FACTION_NAME_MARXIST_LENINIST_2"
+			"FACTION_NAME_MARXIST_LENINIST_3"
+			"FACTION_NAME_MARXIST_LENINIST_4"
+			"FACTION_NAME_MARXIST_LENINIST_5"
+			"FACTION_NAME_MARXIST_LENINIST_6"
 		}
 		color = { 127 0 0 }
 		rules = {
@@ -198,17 +198,17 @@ ideologies = {
 		can_be_boosted = no
 	}
 
-	democratic = {
+	conservative = {
 		types = {
-			democratic_subtype = {}
+			conservative_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_DEMOCRATIC_1"
-			"FACTION_NAME_DEMOCRATIC_2"
-			"FACTION_NAME_DEMOCRATIC_3"
-			"FACTION_NAME_DEMOCRATIC_4"
-			"FACTION_NAME_DEMOCRATIC_5"
-			"FACTION_NAME_DEMOCRATIC_6"
+			"FACTION_NAME_CONSERVATIVE_1"
+			"FACTION_NAME_CONSERVATIVE_2"
+			"FACTION_NAME_CONSERVATIVE_3"
+			"FACTION_NAME_CONSERVATIVE_4"
+			"FACTION_NAME_CONSERVATIVE_5"
+			"FACTION_NAME_CONSERVATIVE_6"
 		}
 		color = { 0 0 255 }
 		rules = {
@@ -297,17 +297,17 @@ ideologies = {
 		can_be_boosted = no
 	}
 
-	fascist = {
+	ultra_nationalist = {
 		types = {
-			fascist_subtype = {}
+			ultra_nationalist_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_FASCIST_1"
-			"FACTION_NAME_FASCIST_2"
-			"FACTION_NAME_FASCIST_3"
-			"FACTION_NAME_FASCIST_4"
-			"FACTION_NAME_FASCIST_5"
-			"FACTION_NAME_FASCIST_6"
+			"FACTION_NAME_ULTRA_NATIONALIST_1"
+			"FACTION_NAME_ULTRA_NATIONALIST_2"
+			"FACTION_NAME_ULTRA_NATIONALIST_3"
+			"FACTION_NAME_ULTRA_NATIONALIST_4"
+			"FACTION_NAME_ULTRA_NATIONALIST_5"
+			"FACTION_NAME_ULTRA_NATIONALIST_6"
 		}
 		color = { 142 57 0 }
 		rules = {
@@ -330,17 +330,17 @@ ideologies = {
 		can_be_boosted = no
 	}
 
-	neutrality = {
+	populist = {
 		types = {
-			neutrality_subtype = {}
+			populist_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_NEUTRALITY_1"
-			"FACTION_NAME_NEUTRALITY_2"
-			"FACTION_NAME_NEUTRALITY_3"
-			"FACTION_NAME_NEUTRALITY_4"
-			"FACTION_NAME_NEUTRALITY_5"
-			"FACTION_NAME_NEUTRALITY_6"
+			"FACTION_NAME_POPULIST_1"
+			"FACTION_NAME_POPULIST_2"
+			"FACTION_NAME_POPULIST_3"
+			"FACTION_NAME_POPULIST_4"
+			"FACTION_NAME_POPULIST_5"
+			"FACTION_NAME_POPULIST_6"
 		}
 		color = { 0 255 0 }
 		rules = {
