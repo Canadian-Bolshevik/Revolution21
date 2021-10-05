@@ -54,32 +54,24 @@ set_convoys = 20
 
 
 set_politics = {
-	ruling_party = neutrality
-	last_election = "1936.1.1"
-	election_frequency = 48
+	ruling_party = authoritarian_democrat
+	last_election = "1994.1.1"
+	election_frequency = 60
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 25
-	fascism = 20
-	communism = 5
-	neutrality = 50
-}
-
-1939.1.1 = {
-	set_politics = {
-		ruling_party = neutrality
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
-	}
-	set_popularities = {
-		democratic = 25
-		fascism = 20
-		communism = 5
-		neutrality = 50
-	}
+	marxist_leninist = 0
+	bolshevist_leninist = 0
+	libertarian_socialist = 2
+	revisionist_socialist = 0
+	social_democrat = 7
+	liberal = 10
+	conservative = 30
+	authoritarian_democrat = 38
+	autocrat = 0
+	ultra_nationalist = 1
+	populist = 12
 }
 
 create_country_leader = {
